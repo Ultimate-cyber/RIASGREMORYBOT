@@ -1,24 +1,24 @@
-<h1 align="center"> RIAS GREMORY BOT V1.4.0</h1>
+<h1 align="center"> RIAS GREMORY BOT V2.4.0</h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;RIAS_GREMORY-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+09.07.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;RIAS_GREMORY-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Tyrant+kid;RELEASED+09.07.24" alt="Typing SVG" /></a>
   </p>
-    <img alt="TOXXIC-MD" width="960" height="720" src="https://telegra.ph/file/bfc26efd37cbf9857a101.jpg">
+    <img alt="Ultimate-cyber" width="960" height="720" src="https://telegra.ph/file/bfc26efd37cbf9857a101.jpg">
 <p align="center">
 <priasgremorybot align="center">
-<a href="https://github.com/Toxic1239/RIAS_GREMORY-BOT"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ultimate-cyber/RIAS_GREMORY-BOT"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/RIASGREMORYBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/RIASGREMORYBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/RIASGREMORYBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/RIASGREMORYBOT?color=green&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/RIASGREMORYBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/RIASGREMORYBOT?label=Watchers&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Tyrantkid/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ultimate-cyber/RIASGREMORYBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/RIASGREMORYBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/Ultimate-cyber/RIASGREMORYBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ultimate-cyber/RIASGREMORYBOT?color=green&style=flat-square"></a>
+<a href="https://github.com/Tyrant kid/RIASGREMORYBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tyrant kid/RIASGREMORYBOT?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
 ### IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO LIB/SESSIONS FOLDER 
 
-### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Toxic1239/RIASGREMORYBOT/fork) It
+### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Ultimate-cyber/RIASGREMORYBOT/fork) It
 
 ### 2. GET SESSION ID HERE 
 
@@ -41,12 +41,12 @@ AND DEPLOY
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Toxic1239/RIASGREMORYBOT' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/Ultimate-cyber/RIASGREMORYBOT' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
  ### DEPLOY ON RAILWAY 
 1. Deploy.
     <br>
-    <a href='https://railway.com/github/Toxic1239/RIASGREMORYBOT' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
+    <a href='https://railway.com/github/Ultimate-cyber/RIASGREMORYBOT' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
  ### DEPLOY ON RENDER 
 1. NOT AVAILABLE 
@@ -64,7 +64,7 @@ Add session Id to config.js and then deploy to codespace
 -Contributions to RIAS_GREMORY-BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 <br>
-    <a href='https://github.com/Toxic1239/RIASGREMORYBOT/issues/new/choose' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-REPORT ISSUE-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://github.com/Ultimate-cyber/RIASGREMORYBOT/issues/new/choose' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-REPORT ISSUE-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 
 ***
@@ -77,7 +77,7 @@ Add session Id to config.js and then deploy to codespace
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On TELEGRAM**](https://t.me/Toxxicn_bot)
+078 276 7055
 
 ***
 ### WARNING
@@ -87,11 +87,10 @@ Add session Id to config.js and then deploy to codespace
 - *Use RIAS-GREMORY at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL REPO VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/Toxic1239/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Ultimate-cyber/count.svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img 
 
- ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U) 
 
 ### THANKS TO:
 
